@@ -1,0 +1,52 @@
+h6 {
+    text-align: center;
+    color: #585B56;
+}
+
+h5 {
+    text-align: center;
+    color: #585B56;
+}
+
+body {
+    background-color: #FFFFC7;
+}
+
+.wew-row {
+    text-align: center;
+    font-family: serif;
+}
+
+
+img {
+    width: 300px;
+}
+
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    width: 150px;
+}
+
+.lol-row {
+    background-color: #D7AF70;
+    color: #D7AF70;
+}
+
+.haha-row {
+    background-color: #D7AF70;
+    color: #D7AF70;
+}
+
+.grr-row {
+    background-color: #C9E4CA;
+    color: #C9E4CA;
+}
+
+.lmao-row {
+    background-color: #C9E4CA;
+    color: #C9E4CA;
+}
